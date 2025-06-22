@@ -48,7 +48,7 @@ fun game() {
 
     val getGameChoice = getGameChoice(options)
 
-    var getUserChoice = getUserChoice(options)
+    val getUserChoice = getUserChoice(options)
 
     checkResult(getUserChoice, getGameChoice)
 }

@@ -1,4 +1,6 @@
 data class Recipes(
     val title: String,
-    val isVegetarian: Boolean,
+    val mainIngredient: String,
+    val isVegetarian: Boolean = false,
+    val difficulty: String = "Easy",
 )

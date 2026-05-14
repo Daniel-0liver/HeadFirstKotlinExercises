@@ -32,7 +32,7 @@ Each chapter now includes an `Exercises/` folder to store chapter-specific book 
 
 ## Exercise Links
 
-- [Chapter 1 – MyFirstApp](./Chapter_1/MyFirstApp/src/App.kt): A first Kotlin program using loops and conditionals to print a simple patterned output.
+- [Chapter 1 – MyFirstApp](./Chapter_1/MyFirstApp/src/App.kt): a first Kotlin program using loops and conditionals to print a simple patterned output.
 - [Chapter 2 – PhraseOMatic](./Chapter_2/PhraseOMatic/src/PhraseOMatic.kt): Generates random “business buzzword” phrases from multiple word lists.
 - [Chapter 3 – Rock, Paper, Scissors Game](./Chapter_3/src/Game.kt): Interactive console game that validates user input and compares choices against computer picks.
 - [Chapter 4 – Songs](./Chapter_4/Songs/src/Songs.kt): Introduces classes and objects with a `Song` model and simple play/stop behavior.
